@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover cutting-edge tools designed to boost productivity and simplify your workflow.",
+        "title": "Transform Your Workday with Innovative Solutions!"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover cutting-edge tools designed to boost productivity and simplify your workflow.",
+        "title": "Transform Your Workday with Innovative Solutions!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover cutting-edge tools designed to boost productivity and simplify your workflow.",
+        "title": "Transform Your Workday with Innovative Solutions!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover cutting-edge tools designed to boost productivity and simplify your workflow.",
+        "title": "Transform Your Workday with Innovative Solutions!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover cutting-edge tools designed to boost productivity and simplify your workflow.",
+        "title": "Transform Your Workday with Innovative Solutions!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover cutting-edge tools designed to boost productivity and simplify your workflow.",
+        "title": "Transform Your Workday with Innovative Solutions!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover cutting-edge tools designed to boost productivity and simplify your workflow.",
+        "title": "Transform Your Workday with Innovative Solutions!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover cutting-edge tools designed to boost productivity and simplify your workflow.",
+        "title": "Transform Your Workday with Innovative Solutions!"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Transform Your Workday with Innovative Solutions!",
+  "subtitle": "Discover cutting-edge tools designed to boost productivity and simplify your workflow."
+}
